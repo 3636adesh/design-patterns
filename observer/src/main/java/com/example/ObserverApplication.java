@@ -1,13 +1,13 @@
-package com.developer;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CodeApplication {
+public class ObserverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CodeApplication.class, args);
+		SpringApplication.run(ObserverApplication.class, args);
 	}
 
 }
