@@ -15,7 +15,7 @@ public class SagPatternsApplication {
 
 	@GetMapping
 	public String home() {
-		return "Welcome to the Sag Patterns Application!";
+		return "<h2>Welcome to the Sag Patterns Application!<h2>";
 	}
 
 }
